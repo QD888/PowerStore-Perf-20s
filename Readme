@@ -1,0 +1,10 @@
+Dell Storage PowerStore Performance Monitoring
+Storage level performance metrics with 20s intervals
+
+Dell PowerStore 存储性能监控
+根据官网RestAPI文档，存储级别性能指标的最小间隔粒度为20秒
+
+This is a demo written by Go language.
+这个示例仅作为可能性验证，采用Go语言编写
+
+QD888
