@@ -9,9 +9,11 @@ Dell PowerStore 存储性能监控
 https://github.com/QD888/PowerStore-Perf-20s/assets/69104074/8ac5969b-ab4f-4233-9260-d2cd7b377ff0
 
 This is a demo written with Go language.
+
 If PowerStore performance can be monitored with seconds level, what you think about PowerMax and Unity?
 
-这个示例仅作为可行性验证，采用Go语言编写
+这个示例仅作为可行性验证，采用Go语言编写。
+
 如果PowerStore可以做到秒级的性能监控，那么PowerMax和Unity同样可以做到。
 
 
